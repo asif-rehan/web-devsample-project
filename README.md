@@ -1,2 +1,2 @@
-web-designing-sample-project
+web-dev-sample-project
 ============================
